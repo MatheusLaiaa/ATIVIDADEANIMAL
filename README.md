@@ -1,6 +1,10 @@
 # ETAPA 1
 ## EXERCICIO ANIMAL
 
+## METODOLOGIA
+
+O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstrado, durante a aula do dia 11/09/23;
+
 ### CODIGO COMPLETO
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/789ef851-d6e4-47bc-b08e-57276a3e3131)

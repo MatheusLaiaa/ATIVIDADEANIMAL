@@ -10,6 +10,30 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/789ef851-d6e4-47bc-b08e-57276a3e3131)
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/57a2d7e8-06bf-4fa0-a990-8c7e52beb789)
 
+## Selecione todos os animais
+
+![selecionandoanimais](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/4309ad4d-259d-4577-a576-789f9ebc1eba)
+
+## Selecione todos os animais que pesam menos que 13.1
+
+![animais q pesam ate 13 1](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/407f436c-1e6e-46e5-8bf7-756a80e521e1)
+
+## Selecione todos nasceram entre fevereiro e dezembro de 2015
+
+## Selecione todos os animais brancos que pesam menos que 15.0
+
+![menos q 15 branco](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/a0e5931a-5bf1-4835-976c-ee656e1b46ed)
+
+## Selecione nome, cor e peso de todos cujo nome comece com ’B’
+
+![letra b ](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/01a422fe-ed25-4a58-b340-19b2a26ae12a)
+
+## Selecione nome, cor e peso de todos com cor vermelha, amarela, marrom e laranja
+
+## Selecione nome, cor, data de nascimento e peso de todos ordenados pelos mais jovens
+
+
+
 
 ## Selecione nome, cor e peso de todos cujo nome comece com ’B’
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/1e718f20-6d70-4e87-9fdd-b56d9291454f)

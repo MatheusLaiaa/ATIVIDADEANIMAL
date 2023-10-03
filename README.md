@@ -30,10 +30,12 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 
 ## Selecione nome, cor e peso de todos com cor vermelha, amarela, marrom e laranja
 
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/3a327fb6-f1e4-4bb5-b333-6866aca0fad3)
+
+
 ## Selecione nome, cor, data de nascimento e peso de todos ordenados pelos mais jovens
 
-
-
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/d4efdf72-926d-47e1-b888-834ee3f02319)
 
 ## Selecione nome, cor e peso de todos cujo nome comece com ’B’
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/1e718f20-6d70-4e87-9fdd-b56d9291454f)
@@ -51,7 +53,6 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/7285e897-63f2-4500-8772-74463bdfd5b2)
 
 ## Selecione todos os animais com peso entre 13.0 à 15.0
-
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/933de6ba-206a-40a3-ad03-70a2d8cc8854)
 

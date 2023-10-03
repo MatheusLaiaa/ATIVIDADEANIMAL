@@ -1,0 +1,32 @@
+-- Crie a tabela 'Categorias' para armazenar informações sobre as categorias dos filmes
+CREATE TABLE Categorias (
+    CategoriaID INT AUTO_INCREMENT PRIMARY KEY,
+    NomeCategoria VARCHAR(255) NOT NULL
+);
+
+-- Crie a tabela 'Filmes' para armazenar informações sobre os filmes
+CREATE TABLE Filmes (
+    FilmeID INT AUTO_INCREMENT PRIMARY KEY,
+    Titulo VARCHAR(255) NOT NULL,
+    AnoLancamento INT,
+    DuracaoMinutos INT,
+    CategoriaID INT,
+    FOREIGN KEY (CategoriaID) REFERENCES Categorias(CategoriaID)
+);
+
+-- Inserir categorias fictícias
+INSERT INTO Categorias (NomeCategoria) VALUES
+    ('Ação'),
+    ('Comédia'),
+    ('Drama');
+
+-- Inserir filmes fictícios
+INSERT INTO Filmes (Titulo, AnoLancamento, DuracaoMinutos, CategoriaID) VALUES
+    ('Matrix', 1999, 136, 1),
+    ('Forrest Gump', 1994, 142, 2),
+    ('Pulp Fiction', 1994, 154, 2),
+    ('O Poderoso Chefão', 1972, 175, 3),
+    ('Gladiador', 2000, 155, 1),
+    ('Titanic', 1997, 195, 3),
+    ('Homem de Ferro', 2008, 126, 1),
+    ('Os Incríveis', 2004, 115, 2);

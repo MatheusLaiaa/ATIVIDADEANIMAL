@@ -20,6 +20,8 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 
 ## Selecione todos nasceram entre fevereiro e dezembro de 2015
 
+
+
 ## Selecionei todos os animais brancos que pesam menos que 15.0
 
 ![menos q 15 branco](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/a0e5931a-5bf1-4835-976c-ee656e1b46ed)

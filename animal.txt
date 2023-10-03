@@ -1,0 +1,32 @@
+-- Criar a tabela Espécie
+CREATE TABLE Especie (
+    ID INT PRIMARY KEY,
+    Nome VARCHAR(255) NOT NULL,
+    Descricao TEXT
+);
+
+-- Criar a tabela Animal
+CREATE TABLE Animal (
+    ID INT PRIMARY KEY,
+    Nome VARCHAR(255) NOT NULL,
+    Data_Nasc DATE,
+    Peso DECIMAL(10,2),
+    ID_Especie INT,
+    FOREIGN KEY (ID_Especie) REFERENCES Especie(ID)
+);
+-- Inserir dados na tabela Especie
+INSERT INTO Especie (ID, Nome, Descricao) VALUES
+(1, 'Gorila', 'maiores primatas viventes do mundo'),
+(2, 'Leopardo', 'Grande felino terrestre'),
+(3, 'Girafa', 'Mamífero herbívoro de pescoço longo');
+
+-- Inserir dados na tabela Animal
+INSERT INTO Animal (ID, Nome, Data_Nasc, Peso, ID_Especie) VALUES
+(1, 'Soneca', '2010-05-15', 150.5, 1),
+(2, 'Nala', '2012-08-20', 140.2, 1),
+(3, 'Khan', '2009-11-10', 180.8, 2),
+(4, 'Mel', '2015-03-25', 900.3, 3);
+(5, 'Rajah', '2014-06-08', 120.8, 2),
+(6, 'Breva', '2016-02-14', 800.0, 3),
+(7, 'Alexum', '2019-08-30', 170.3, 1),
+(8, 'Marta', '2020-01-12', 160.7, 3);

@@ -3,7 +3,11 @@
 
 ## METODOLOGIA
 
-O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstrado, durante a aula do dia 11/09/23 e logo após ir realizando cada passo proposto na lista de exercicio.
+Prezado Professor,
+
+Com base na aula ministrada no dia 11 de setembro de 2023, o objetivo deste trabalho é desenvolver um banco de dados, seguindo o exemplo apresentado durante a referida aula. Além disso, pretendemos executar cada etapa indicada na lista de exercícios fornecida.
+
+O processo de criação do banco de dados seguirá as diretrizes e os princípios demonstrados durante a aula, garantindo a qualidade e a precisão das informações armazenadas. Cada passo proposto na lista de exercícios será minuciosamente implementado, visando ao pleno entendimento e à aplicação dos conceitos discutidos em sala de aula.
 
 ### CODIGO COMPLETO
 

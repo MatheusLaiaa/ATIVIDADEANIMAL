@@ -10,39 +10,33 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/789ef851-d6e4-47bc-b08e-57276a3e3131)
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/57a2d7e8-06bf-4fa0-a990-8c7e52beb789)
 
-## Selecione todos os animais
+## Selecionei todos os animais
 
 ![selecionandoanimais](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/4309ad4d-259d-4577-a576-789f9ebc1eba)
 
-## Selecione todos os animais que pesam menos que 13.1
+## Selecionei todos os animais que pesam menos que 13.1
 
 ![animais q pesam ate 13 1](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/407f436c-1e6e-46e5-8bf7-756a80e521e1)
 
 ## Selecione todos nasceram entre fevereiro e dezembro de 2015
 
-## Selecione todos os animais brancos que pesam menos que 15.0
+## Selecionei todos os animais brancos que pesam menos que 15.0
 
 ![menos q 15 branco](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/a0e5931a-5bf1-4835-976c-ee656e1b46ed)
 
-## Selecione nome, cor e peso de todos cujo nome comece com ’B’
+## Selecionei nome, cor e peso de todos cujo nome comece com ’B’
 
 ![letra b ](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/01a422fe-ed25-4a58-b340-19b2a26ae12a)
 
-## Selecione nome, cor e peso de todos com cor vermelha, amarela, marrom e laranja
+## Selecionei nome, cor e peso de todos com cor vermelha, amarela, marrom e laranja
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/3a327fb6-f1e4-4bb5-b333-6866aca0fad3)
 
 
-## Selecione nome, cor, data de nascimento e peso de todos ordenados pelos mais jovens
+## Selecionei nome, cor, data de nascimento e peso de todos ordenados pelos mais jovens
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/d4efdf72-926d-47e1-b888-834ee3f02319)
 
-## Selecione nome, cor e peso de todos cujo nome comece com ’B’
-![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/1e718f20-6d70-4e87-9fdd-b56d9291454f)
-
-## Selecione nome, cor e peso de todos com cor vermelha, amarela, marrom e laranja
-
-![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/ee0428cd-3862-4985-a71a-72b98d2c760e)
 
 ## Selecione todos os animais cujo nome comece com 'C' e não sejam brancos
 

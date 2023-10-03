@@ -63,10 +63,32 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 Faça a modelagem relacional, DER.
 Insira pelo menos 8 animais e 3 espécies.
 
-## PRINT DO COMANDO 
-### NOME DO ARQUIVO: animal.txt
+## NOME DO ARQUIVO: animal.txt
+
+### PRINT DO COMANDO
+
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/2c656244-59cf-4acf-87a6-958190a6cd91)
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/544662d5-a634-4ff5-9a1c-be7448b55a4b)
+
+## MODELAGEM DER 
+
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/c4adf90b-c4f7-4573-ac40-793ecc1d28b3)
+
+### Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone.
+
+## NOME DO ARQUIVO: produto.txt
+
+### PRINT DO COMANDO
+
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/eb38f154-4c13-4c38-93a6-59aed5cc9521)
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/5ec6ea3a-fee9-4033-9c78-10af1948fafe)
+
+## MODELAGEM DER 
+
+
+
+
+
 
 
 

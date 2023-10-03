@@ -87,6 +87,24 @@ Insira pelo menos 8 animais e 3 espécies.
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/8614a437-8a78-4419-9cd8-778f11102945)
 
+###  Crie um banco de dados para registrar dados de Filmes e Categorias.
+
+## NOME DO ARQUIVO: filme.txt
+
+### PRINT DO COMANDO
+
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/4c7e2efb-4dbf-4ec6-ab5a-38e81144b2c1)
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/dba55c6e-ccb1-4103-8bd0-88f9984dff81)
+
+## MODELAGEM DER 
+
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/cbb5f346-b5ee-4083-958b-453510329bca)
+
+
+
+
+
+
 
 
 

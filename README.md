@@ -85,6 +85,9 @@ Insira pelo menos 8 animais e 3 espécies.
 
 ## MODELAGEM DER 
 
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/8614a437-8a78-4419-9cd8-778f11102945)
+
+
 
 
 

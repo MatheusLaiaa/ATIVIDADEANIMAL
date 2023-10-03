@@ -3,7 +3,7 @@
 
 ## METODOLOGIA
 
-O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstrado, durante a aula do dia 11/09/23;
+O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstrado, durante a aula do dia 11/09/23 e logo após ir realizando cada passo proposto na lista de exercicio.
 
 ### CODIGO COMPLETO
 
@@ -55,6 +55,19 @@ O intuito desse trabalho e criar um banco de dados, conforme o exemplo demonstra
 ## Selecione todos os animais que o peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012
 
 ![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/78b3dc8f-8ead-476b-ad4b-3b7fb407df20)
+
+
+# ETAPA 2
+
+### Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição.
+Faça a modelagem relacional, DER.
+Insira pelo menos 8 animais e 3 espécies.
+
+## PRINT DO COMANDO 
+### NOME DO ARQUIVO: animal.txt
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/2c656244-59cf-4acf-87a6-958190a6cd91)
+![image](https://github.com/MatheusLaiaa/ATIVIDADEANIMAL/assets/144149403/544662d5-a634-4ff5-9a1c-be7448b55a4b)
+
 
 
 
